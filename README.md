@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hola, soy Kevin Artiga
 
-<!--
-**adonay2112/adonay2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería Informática** de primer año, apasionado por la tecnología, el aprendizaje continuo y el desarrollo de soluciones creativas.  
+Mi objetivo es crecer como profesional en el área de software y contribuir con proyectos que generen impacto positivo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades en desarrollo
+- Fundamentos de **programación** (Python, C, Java básico)  
+- Conocimientos iniciales de **estructuras de datos** y **algoritmos**  
+- Manejo básico de **Git y GitHub**  
+- Introducción a **bases de datos** (MySQL)  
+- Conceptos de **redes y sistemas operativos**  
+- Trabajo en equipo y aprendizaje colaborativo  
+
+---
+
+## 📂 Proyectos académicos
+- **Ejercicios de programación básica**: pequeños programas en Python y C para resolver problemas matemáticos y lógicos.  
+- **Mini sistema de gestión de estudiantes**: proyecto inicial con MySQL y Java.  
+
+*(Más proyectos estarán disponibles conforme avance en mi carrera 🚀)*
+
+---
+
+## 🎯 Objetivos actuales
+- Mejorar mis habilidades en **algoritmos y estructuras de datos**  
+- Aprender **desarrollo web** (HTML, CSS, JavaScript)  
+- Participar en proyectos colaborativos para ganar experiencia práctica  
+
+---
+
+## 📫 Contacto
+- Email: kevinartiga@example.com  
+- LinkedIn: [linkedin.com/in/kevinartiga](https://linkedin.com/in/kevinartiga)  
+
+---
+
+✨ *Gracias por visitar mi perfil. Estoy en constante aprendizaje y abierto a colaborar en proyectos interesantes.*  
